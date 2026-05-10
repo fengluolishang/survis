@@ -1,17 +1,17 @@
 ﻿const generatedBibEntries = {
     "Beck2016Visual": {
-        "abstract": "Bibiographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
-        "author": "Beck, Fabian and Koch, Sebastian and Weiskopf, Daniel",
-        "doi": "10.1109/TVCG.2015.2467757",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
+        "abstract": "As populations become more affluent and urbanized, diets are shifting such that they are becoming higher in calories and include more highly pro c ssedfoodsandanimalproducts.Thesedietaryshiftsaredrivingincreasesin diet-related diseases and are also causing environmental degradation. These linked impacts pose a new key issue for global society\u2014a diet, health, and environment trilemma. Recent dietary shifts have contributed to increasing diet-related health and environmental impacts, including an 80% increase in global diabetes prevalence and an 860% increase in global nitrogen fertil izer use. Furthermore, if current dietary trajectories were to continue for the next several decades, diet-related diseases would account for three-quarters of the global burden of disease and would also lead to large increases in diet related environmental impacts. We discuss how shifts to healthier diets\u2014 suchassomeMediterranean,pescetarian,vegetarian,andvegandiets\u2014could reduce incidence of diet-related diseases and improve environmental out comes. In addition, we detail how other interventions to food systems that use known technologies and management techniques would improve envi ronmental outcomes.",
+        "author": "Michael Clark,  Jason Hill,David Tilman",
+        "doi": "10.1146/annurev-environ-102017-025957",
+        "journal": "Annual Review of Environment and Resources",
+        "keywords": "type:diet,environment,health",
         "number": "01",
-        "publisher": "IEEE",
+        "publisher": "Annual Reviews",
         "series": "TVCG",
-        "title": "Visual Analysis and Dissemination of Scientific Literature Collections with {SurVis}",
+        "title": "The Diet, Health, and Environment Trilemma",
         "type": "article",
-        "url": "http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/vast15-survis.pdf",
-        "volume": "22",
-        "year": "2016"
+        "url": "https://doi.org/10.1146/annurev-environ-102017-025957",
+        "volume": "43:109-134",
+        "year": "2018"
     }
 };
