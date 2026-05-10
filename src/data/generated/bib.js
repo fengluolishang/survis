@@ -141,7 +141,7 @@
         "author": "Zapico, Jorge Luis and Katzeff, Cecilia and Bohn{\\'e}, Ulrica and Milestad, Rebecka",
         "booktitle": "Proceedings of the 9th Nordic Conference on Human-Computer Interaction",
         "doi": "doi: 10.1145/2971485.2971507 ",
-        "keywords": "type:Sustainable HCI,food,sustainability,visualization,eco_feedback type:}//",
+        "keywords": "type:Sustainable HCI,food,sustainability,visualization,eco-feedback type:}//",
         "pages": "1--9",
         "title": "Eco-feedback visualization for closing the gap of organic food consumption",
         "type": "inproceedings",
